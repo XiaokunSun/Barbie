@@ -2,7 +2,7 @@
 
 [**Project Page**](https://xiaokunsun.github.io/Barbie.github.io/) | [**Paper**](https://arxiv.org/pdf/2408.09126) | [**Gallery**](https://drive.google.com/drive/folders/1FXDROWXrnsSQiOZ4vBgA_Yzib3irLNBc?usp=sharing)
 
-Official implementation of "Barbie: Text to Barbie-Style 3D Avatars"
+Official repo of "Barbie: Text to Barbie-Style 3D Avatars"
 
 [Xiaokun Sun](https://xiaokunsun.github.io/), [Zhenyu Zhang](https://jessezhang92.github.io/), [Ying Tai](https://tyshiwo.github.io/index.html), Qian Wang, [Hao Tang](https://ha0tang.github.io/), [Zili Yi](https://zili-yi.github.io/), [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ), 
 
