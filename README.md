@@ -14,3 +14,15 @@ Abstract: Recent advances in text-guided 3D avatar generation have made substant
 <p align="center">
     <img src="assets/teaser.png">
 </p>
+
+
+## BibTeX
+
+```bibtex
+@article{sun2024barbie,
+  title={Barbie: Text to Barbie-Style 3D Avatars},
+  author={Sun, Xiaokun and Zhang, Zhenyu and Tai, Ying and Wang, Qian and Tang, Hao and Yi, Zili and Yang, Jian},
+  journal={arXiv preprint arXiv:2408.09126},
+  year={2024}
+}
+```
